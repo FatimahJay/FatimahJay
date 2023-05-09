@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @FatimahJay
-- 👀 I like programming in java ...
+- 👋 Hi, I’m @Fatimah
 - 🌱 I’m currently studying software engineering ...
 - 💞️ I joined Github to keep track of my projects and assignments as I solve them
 - 📫 I hope to learn and grow as a programmer
